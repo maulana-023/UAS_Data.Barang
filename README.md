@@ -7,6 +7,6 @@ Kelas : TI.20.RPL.1
 ```
 
 ```
-Video Dekomendasi
+Video Dokumentasi
 https://youtu.be/WX8dK9suTVM
 ```
