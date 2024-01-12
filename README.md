@@ -21,16 +21,16 @@ https://youtu.be/WX8dK9suTVM
 
 ### Detail Transaksi
 
-![Picture - New](pict/ss4.png)
+![Picture - New](pict/ss3.png)
 
 ### Kategori
 
-![Picture - New](pict/ss5.png)
+![Picture - New](pict/ss4.png)
 
 ### Transaksi
 
-![Picture - New](pict/ss6.png)
+![Picture - New](pict/ss5.png)
 
 ### User
 
-![Picture - New](pict/ss7.png)
+![Picture - New](pict/ss6.png)
